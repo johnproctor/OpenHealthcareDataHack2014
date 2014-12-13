@@ -1,0 +1,87 @@
+
+Articles
+--------
+http://tinyletter.com/datamachina
+
+Scott Vine - Microsoft
+----------------------
+
+Ewean - Azure Customer Advisory Team
+------------------------------------
+
+- On cloud switch from reactive problem fixing to proactive and predicating issues
+- Invest in reuseable pieces not monoliths
+
+Monitoring/predicating (Hot, Warm, Cold)
+- Aggregate KPIs
+- Visualise
+- Isolation
+- Notification
+
+Store data in WA tables, but difficult to query. Transform and visualise.
+
+ELK stack (Elastic search and Kibana)
+Take data, serialize it, search and temporally visualise.
+Grok filters
+
+- Use ML to detect new bugs
+R or Azure ML
+Watch user error for spikes
+
+Azure ML
+--------
+
+Can import data from SQL, Azure Tables, Blob, Web etc.
+
+Where have strings as classifications want to convert them to numbers. Use Metadata editor. (Pick all apart from what predicting), can tell ML fields are categorical. 2nd Metadata editor for result.
+
+Split data to train ML (80, 20)
+
+Model
+
+Evaluate.
+
+Can publish ML model on a REST endpoint.
+
+
+Neal Lathia @neal_lathia - Cambridge University
+-----------------------------------------------
+
+Data science - making sense from big data with small behaviours.
+
+Tracking small behaviours using smartphones.  Emotionsense - mood and ratings app.
+-> Happy people live active lives.
+
+
+Open Healthcare Datasets
+------------------------
+
+- Planning event around Dementia next year
+
+HSCIC - health & social care information centre
+http://data.gov.uk/
+
+AWS S3
+https://
+
+Azure
+Account name: hackfest
+
+Crash Injury
+
+Prescription Data
+
+Ebola 
+http://www.vbi.vt.edu/ndssl/ebola/ebola-data/
+
+Create own datasets
+http://www.physionet.org/cgi-bin/atm/ATM
+
+Presentations at 2pm Sunday
+
+
+
+
+
+
+
